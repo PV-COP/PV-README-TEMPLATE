@@ -1,39 +1,17 @@
-# Project Title
+# Prof. Vanselow's README Template
 
-One paragraph of project description goes here
+A guide for creating a README for a student project. The template in this repository aims to identify and combine README best practices for real projects and for student projects.  
 
 ## Getting Started
 
-Instructions to get a copy of the project up and running on someone's local machine for development and testing purposes.
-
-## Built With
-
-* What IDE used
-* 
-
-## Contributing
-1. Click the Fork button
-2. Create a branch
-3. Commit your changes
-4. Push 
-5. Submit a pull request
-
-## Author
-
-* 
+Start with the TemplateWithInfo. 
 
 ## License
 
-Eg. This project is licensed under the MIT License. You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
+* https://github.com/jfg357
+* https://github.com/jehna/readme-best-practices/edit/master/README-default.md
 * 
-* 
-* 
-
-## History
-
-
