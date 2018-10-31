@@ -14,4 +14,4 @@ This project is licensed under the MIT License.
 
 * https://github.com/jfg357
 * https://github.com/jehna/readme-best-practices/edit/master/README-default.md
-* 
+* https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
