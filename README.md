@@ -1,10 +1,10 @@
 # Prof. Vanselow's README Template
 
-A guide for creating a README for a student project. The template in this repository aims to identify and combine README best practices for real projects and for student projects.  
+A guide for creating a README for a student project. The template in this repository aims to identify and combine README best practices for real projects and for student projects. These are just suggestions, not requirements.     
 
 ## Getting Started
 
-Start with the TemplateWithInfo. 
+Start with the TemplateWithInfo then copy the TitleOnlyTemplate.   
 
 ## License
 
