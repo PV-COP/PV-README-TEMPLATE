@@ -7,7 +7,6 @@ Who made it? Did you make it independently or with a team?<br />
 When did you make it? At what level of experience and proficiency were / are you?<br />
 Why did you make it? For fun? For an assignment? How does it relect you as a person?<br />
 Where did you make it? What school / class?<br />
-<br />
 Note for school project: this may be the only thing someone visiting your page reads. Try to make a great impresison. Make someone want to hire you. This section will also be useful to you in the future to remind you about the project. 
 
 ## Demonstration
