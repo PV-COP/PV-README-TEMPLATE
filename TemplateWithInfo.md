@@ -12,7 +12,8 @@ Note for school project: this may be the only thing someone visiting your page r
 
 ## Demonstration
 
-Add an animated gif. You can use ShareX or 
+Add an animated gif. You can use ShareX, GIPHY Capture or another tool. https://blog.github.com/2018-06-29-GIF-that-keeps-on-GIFing/
+Note for school project: This is a great way for friends and family to easily see your project in action. 
 
 ## Getting Started
 
@@ -29,7 +30,7 @@ Note for school project: Every section is an opportunity to make an impression. 
 
 ## Contributing
 
-This section is more important for real projects
+This section is more important for real projects but is good to include in school projects. 
 One of the main purposes of GitHub and similar services is to provide a means for project collaboration.
 Tell someone how they can contribute. 
 
@@ -39,6 +40,7 @@ Tell someone how they can contribute.
 
 ## License
 
+Public repositories on GitHub are often used to share open source software. For your repository to truly be open source, you'll need to license it so that others are free to use, change, and distribute the software. https://help.github.com/articles/licensing-a-repository/
 You have the option to choose a license when you first create your repository. 
 If you need to create a license for an existing repository...
 1. Go to your repository.
@@ -61,7 +63,7 @@ Information about what has changed.
 
 ## Key Programming Concepts Utilized
 
-This section would not necessarily be in a "real" README.  
+This section would not necessarily be in a real README.  
 It is a reference for you and a place to impress potential employers with your knowledge. 
 Identify what concepts you utilize so when you need to use them again you will know that you will find them here. Include a brief description of the concepts in your own words to help you prepare for related interview questions. 
 is program utilizes.
