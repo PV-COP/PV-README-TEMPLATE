@@ -18,7 +18,7 @@ Note for school project: This is a great way for friends and family to easily se
 
 Instructions to get a copy of the project up and running on someone's local machine for development and testing purposes.
 <br />
-Note for real project: You want to be able to share your project and enabling collaboration. 
+Note for real project: You want to be able to share your project and enable collaboration. 
 <br />
 Note for school project: You want a potential client or hirer to be able to run your program. 
 
