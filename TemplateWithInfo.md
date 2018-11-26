@@ -33,7 +33,7 @@ Note for school project: You want a potential client or hirer to be able to run 
 
 This section is more important for real projects but is good to include in school projects. <br />
 One of the main purposes of GitHub and similar services is to provide a means for project collaboration. <br />
-Tell someone how they can contribute.
+Tell someone how they can contribute to this project.
 
 ## Author
 
@@ -67,4 +67,3 @@ Information about what has changed.
 This section would not necessarily be in a real README.  <br />
 It is a reference for you and a place to impress potential employers with your knowledge. 
 Identify what concepts you utilize so when you need to use them again you will know that you will find them here. Include a brief description of the concepts in your own words to help you prepare for related interview questions. 
-is program utilizes.
