@@ -18,7 +18,7 @@ The markdown is  \!\[Alt text\]\(relative/path/to/img.png) <br />
 
 ## Documentation
 
-[JavaDoc](out/javadoc/index.html)
+[JavaDoc](docs/javadoc/index.html)
 
 ## Diagrams
 
