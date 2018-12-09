@@ -13,6 +13,14 @@ Note for school project: this may be the only thing someone visiting your page r
 
 Add an animated gif. You can use ShareX, GIPHY Capture or another tool. https://blog.github.com/2018-06-29-GIF-that-keeps-on-GIFing/
 Note for school project: This is a great way for friends and family to easily see your project in action. 
+The markdown is  \!\[Alt text\]\(relative/path/to/img.png) <br />
+![Sample GIF](out/octocat_github.gif) 
+
+## Diagrams
+
+Such as a class diagram. <br /> 
+The markdown is  \!\[Alt text\]\(relative/path/to/img.png) <br />
+ ![Sample Image](out/9919.png)
 
 ## Getting Started
 
