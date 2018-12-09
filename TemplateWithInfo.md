@@ -16,6 +16,10 @@ Note for school project: This is a great way for friends and family to easily se
 The markdown is  \!\[Alt text\]\(relative/path/to/img.png) <br />
 ![Sample GIF](out/octocat_github.gif) 
 
+## Documentation
+
+[JavaDoc](out/javadoc/index.html)
+
 ## Diagrams
 
 Such as a class diagram. <br /> 
