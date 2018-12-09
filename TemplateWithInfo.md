@@ -19,7 +19,7 @@ The markdown is  \!\[Alt text\]\(relative/path/to/img.png) <br />
 ## Documentation
 
 Create a docs folder in your project. Generate JavaDoc in your IDE. Change repository settings (using Settings at top of page) to use GitHub Pages with your docs folder. Add a link to the javadoc index.html file with this markdown: \[Text to appear]\(URL) <br />
-The URL will be your YourGitHubUserName.github.io/YourRepositoryName/foldername/filename<br /> 
+The URL will be YourGitHubUserName.github.io/YourRepositoryName/foldername/filename<br /> 
 Do not include the docs folder name in your URL. <br />
 Sample: \[JavaDoc]\(https://pv-cop.github.io/PV-README-TEMPLATE/javadoc/index.html) <br /> <br />
 [JavaDoc](https://pv-cop.github.io/PV-README-TEMPLATE/javadoc/index.html)
