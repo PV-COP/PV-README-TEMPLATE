@@ -28,6 +28,7 @@ Sample: \[JavaDoc]\(https://pv-cop.github.io/PV-README-TEMPLATE/javadoc/index.ht
 
 Such as a class diagram. <br /> 
 The markdown is  \!\[Alt text\]\(relative/path/to/img.png) <br />
+For example, this image 9919.png is saved to the docs folder in my repository and the markdown is  \!\[Sample Image\](docs/9919.png) <br />
  ![Sample Image](docs/9919.png)
 
 ## Getting Started
