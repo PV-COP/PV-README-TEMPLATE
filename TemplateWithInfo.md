@@ -18,7 +18,7 @@ The markdown is  \!\[Alt text\]\(relative/path/to/img.png) <br />
 
 ## Documentation
 
-Create a docs folder in your project. If using Java, generate JavaDoc in your IDE. If using C++, use Doxygen. Change repository settings (using Settings at top of page) to use GitHub Pages with your docs folder. Add a link to the javadoc/doxygen index.html file with this markdown: \[Text to appear]\(URL) <br />
+For Python, use the output of your docstrings. For other languages, create a docs folder in your project. If using Java, generate JavaDoc in your IDE. If using C++, use Doxygen. Change repository settings (using Settings at top of page) to use GitHub Pages with your docs folder. Add a link to the javadoc/doxygen index.html file with this markdown: \[Text to appear]\(URL) <br />
 The URL will be YourGitHubUserName.github.io/YourRepositoryName/foldername/filename<br /> 
 Do not include the docs folder name in your URL. <br />
 Sample: \[JavaDoc]\(https://pv-cop.github.io/PV-README-TEMPLATE/javadoc/index.html) <br /> <br />
